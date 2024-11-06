@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "text": "finishing writing hooks chapter"
+    },
+    {
+      "id": "3",
+      "text": "read bible"
+    },
+    {
+      "id": "e2c68a27-a4f3-4382-840f-d3e497f1c08f",
+      "text": "Finish Chapter9"
+    },
+    {
+      "id": "b6945cc6-0514-463e-837a-5eaff7e3b850",
+      "text": "Meditate"
+    }
+  ]
+}
